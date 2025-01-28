@@ -7,7 +7,7 @@ import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
 
-class Junitdemo {
+class Seleniumtoken {
 	WebDriver driver;
 
 	@BeforeAll
@@ -20,7 +20,7 @@ class Junitdemo {
 
 	@Test
 	void test() {
-		
+		fail("Not yet implemented");
 	}
 
 }
